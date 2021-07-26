@@ -6,7 +6,7 @@ Linguagem de escrita dos cenários de teste: Cucumber/Gherkin-pt
 
 Configuração:
 
-Baixar a versão 2.6.1 do ruby, com DevKit.
+Baixar a versão 2.6.0 do ruby, com DevKit.
 
 https://rubyinstaller.org/downloads/
 
