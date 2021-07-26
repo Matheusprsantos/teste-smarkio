@@ -1,4 +1,4 @@
-Definimos como padrões para esse projeto:
+Consideramos como padrões para esse projeto:
 
 Linguagem de programação: Ruby
 
@@ -6,7 +6,7 @@ Linguagem de escrita dos cenários de teste: Cucumber/Gherkin-pt
 
 Configuração:
 
-Baixar a versão 2.6.0 do ruby, com DevKit.
+Baixar a versão 3.0.2-1 do ruby, com DevKit.
 
 https://rubyinstaller.org/downloads/
 
@@ -14,7 +14,7 @@ https://rubyinstaller.org/downloads/
 Instalando o Bundler:
 O bundler é nossa gema que gerencia as dependências do projeto, ele utiliza como referência para o seu trabalho o arquivo Gemfile, que é onde você adiciona todas as dependências do seu projeto.
 
-Pra você utiliza-lo é necessário instalar, executando o comando abaixo no terminal:
+Pra você usa-lo é necessário instalar, executando o comando abaixo no terminal:
 
   - gem install bundler
 
@@ -22,7 +22,7 @@ O comando abaixo irá realizar o download e instalação de todas as gemas do ar
 
   - bundle install
 
-  Obs: Se estiver dando problema neste momento, executar o comando abaixo e depois o bundle install:
+  Obs: Se por ventura estiver dando problema neste momento, executar o comando abaixo e depois o bundle install:
 
   - bundle update --bundler
 
@@ -33,7 +33,7 @@ Realizar o download do chromedriver e colocar os arquivos dentro da pasta Ruby25
 Versao utilizada no projeto: ChromeDriver 91.0.4472.101
 
 
-Executando testes
+Fazendo os testes
 Para realizar execução dos testes é necessário realizar os comandos abaixo no terminal dentro da pasta do projeto.
 
 Parametros:
